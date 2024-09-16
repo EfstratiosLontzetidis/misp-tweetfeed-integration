@@ -1,6 +1,6 @@
 # misp-tweetfeed-integration
 
-This script integrates (TweetFeed)[https://tweetfeed.live/] IoCs into your MISP instance.
+This script integrates [TweetFeed](https://tweetfeed.live/) IoCs into your MISP instance.
 
 Steps:
 - Host the Python file on your MISP instance.
